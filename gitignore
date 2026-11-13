@@ -1,0 +1,9 @@
+# hasil rekap (dibuat otomatis oleh aplikasi)
+*.xlsx
+
+# file sumber Daftar Ujian: berisi nama & NIM mahasiswa, JANGAN di-push
+daftar*.txt
+
+# folder bawaan Python dan Vercel CLI
+__pycache__/
+.vercel/
